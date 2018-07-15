@@ -1,0 +1,7 @@
+C:\Users\Katarzyna\source\repos\pluralsight\Pluralsight\Pluralsight\bin\Debug\Pluralsight.exe.config
+C:\Users\Katarzyna\source\repos\pluralsight\Pluralsight\Pluralsight\bin\Debug\Pluralsight.exe
+C:\Users\Katarzyna\source\repos\pluralsight\Pluralsight\Pluralsight\bin\Debug\Pluralsight.pdb
+C:\Users\Katarzyna\source\repos\pluralsight\Pluralsight\Pluralsight\obj\Debug\Pluralsight.csprojResolveAssemblyReference.cache
+C:\Users\Katarzyna\source\repos\pluralsight\Pluralsight\Pluralsight\obj\Debug\Pluralsight.csproj.CoreCompileInputs.cache
+C:\Users\Katarzyna\source\repos\pluralsight\Pluralsight\Pluralsight\obj\Debug\Pluralsight.exe
+C:\Users\Katarzyna\source\repos\pluralsight\Pluralsight\Pluralsight\obj\Debug\Pluralsight.pdb
